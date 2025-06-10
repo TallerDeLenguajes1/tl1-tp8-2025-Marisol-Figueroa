@@ -1,0 +1,15 @@
+C:\taller\tl1-tp8-2025-Marisol-Figueroa\CalculadoraHistorial\bin\Debug\net8.0\CalculadoraHistorial.exe
+C:\taller\tl1-tp8-2025-Marisol-Figueroa\CalculadoraHistorial\bin\Debug\net8.0\CalculadoraHistorial.deps.json
+C:\taller\tl1-tp8-2025-Marisol-Figueroa\CalculadoraHistorial\bin\Debug\net8.0\CalculadoraHistorial.runtimeconfig.json
+C:\taller\tl1-tp8-2025-Marisol-Figueroa\CalculadoraHistorial\bin\Debug\net8.0\CalculadoraHistorial.dll
+C:\taller\tl1-tp8-2025-Marisol-Figueroa\CalculadoraHistorial\bin\Debug\net8.0\CalculadoraHistorial.pdb
+C:\taller\tl1-tp8-2025-Marisol-Figueroa\CalculadoraHistorial\obj\Debug\net8.0\CalculadoraHistorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\taller\tl1-tp8-2025-Marisol-Figueroa\CalculadoraHistorial\obj\Debug\net8.0\CalculadoraHistorial.AssemblyInfoInputs.cache
+C:\taller\tl1-tp8-2025-Marisol-Figueroa\CalculadoraHistorial\obj\Debug\net8.0\CalculadoraHistorial.AssemblyInfo.cs
+C:\taller\tl1-tp8-2025-Marisol-Figueroa\CalculadoraHistorial\obj\Debug\net8.0\CalculadoraHistorial.csproj.CoreCompileInputs.cache
+C:\taller\tl1-tp8-2025-Marisol-Figueroa\CalculadoraHistorial\obj\Debug\net8.0\CalculadoraHistorial.sourcelink.json
+C:\taller\tl1-tp8-2025-Marisol-Figueroa\CalculadoraHistorial\obj\Debug\net8.0\CalculadoraHistorial.dll
+C:\taller\tl1-tp8-2025-Marisol-Figueroa\CalculadoraHistorial\obj\Debug\net8.0\refint\CalculadoraHistorial.dll
+C:\taller\tl1-tp8-2025-Marisol-Figueroa\CalculadoraHistorial\obj\Debug\net8.0\CalculadoraHistorial.pdb
+C:\taller\tl1-tp8-2025-Marisol-Figueroa\CalculadoraHistorial\obj\Debug\net8.0\CalculadoraHistorial.genruntimeconfig.cache
+C:\taller\tl1-tp8-2025-Marisol-Figueroa\CalculadoraHistorial\obj\Debug\net8.0\ref\CalculadoraHistorial.dll
